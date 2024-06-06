@@ -7,7 +7,7 @@ For this purpose, we use Flask for the backend to create a small server that can
 ```bash
 $ python -m venv venv
 $ source venv/bin/activate
-$ pip install flask
+$ pip install flask pyperclip‎ requests
 ```
 
 ### Setps for use
