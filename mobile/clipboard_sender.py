@@ -3,7 +3,7 @@ import pyperclip
 
 # mobile
 
-server_url = 'http://127.0.0.1:5000/update_clipboard'
+server_url = 'http://<ip>:5000/update_clipboard'
 
 def send_clipboard_content():
     content = pyperclip.paste()
